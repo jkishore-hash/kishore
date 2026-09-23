@@ -1,0 +1,7 @@
+{
+  "name": "ExamCraft - AI Exam & Quiz Question Generator",
+  "description": "Generate comprehensive multiple-choice exams, test quizzes, and study flashcards across any subject with instant grading, step-by-step explanations, and export options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
